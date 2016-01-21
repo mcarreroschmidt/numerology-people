@@ -6,6 +6,9 @@ require 'rubygems'
 require 'bundler/setup'
 require 'sinatra'
 require "sinatra/activerecord"
+require 'sinatra/content_for'
+require 'date'
+
 
 require 'erb'
 
